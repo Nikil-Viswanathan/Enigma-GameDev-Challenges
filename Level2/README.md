@@ -1,39 +1,60 @@
-# Level 2 - Adding Capturing, Checks, and Checkmates
-Implement capturing mechanics, along with checks and checkmates. There’s no need for stalemates, en passant, or castling—just focus on the core rules of the game.
+## **Level 2: Implement Capturing, Checks, and Checkmates (PS 2.1)**
 
-## Resources
-+ [Unity Chess 3D Final](https://www.youtube.com/watch?v=9-6EcY1qLug)
-+ [Godot Chess 2D Checks](https://www.youtube.com/watch?v=t51j8xpn1O4&list=PLd_56bdSJ-tS4-q1gczTdKJhqMep3Ij_w&index=6)
-+ [Godot Chess 2D Checkmates](https://www.youtube.com/watch?v=J3Cd3UV1Ccw&list=PLd_56bdSJ-tS4-q1gczTdKJhqMep3Ij_w&index=8)
+### Task Overview
 
-## Steps to Contribute
-+ Fork the repo
-+ Clone the forked repo to your local environment.
-  ```bash
-     git clone https://github.com/<your_username>/Hacktoberfest24
-  ```
-+ Navigate to the corresponding directory
-  ```bash
-    cd Hacktoberfest24/GameDev/Level2/
-  ```
-+ Create a folder with the same name as your Username
-  ```bash
-    mkdir <your_username>
-  ```
-+ In the folder include the following:
-  - All the files required to run your submission
-    
-  - The whole project folder (Click the folder icon under your project name in Godot main menu and upload the entire project folder)
-  - A short video showcasing the capturing (with different pieces in different situations).
-  - A short video showcasing the checks and checkmates (with different pieces in different situations).
-  - If possible include screenshots of the exact code for capturing, checks, and checkmates.
-    
-+ Add your changes
-  ```bash
-    git add .
-  ```
-+ Commit your changes
-  ```bash
-  git commit -m "Message describing commit"
-  ```
-+ Open a Pull Request.
+#### Objective:
+Extend the chess game to include capturing mechanics and implement checks and checkmates.
+
+#### Problem Statement:
+Expand the chess game by adding capturing logic and the ability to detect checks and checkmates.
+
+#### What to Submit:
+1. **Fork the Repo**:
+   - Fork the repository to your own GitHub account.
+
+2. **Clone the Repo**:
+   - Clone the forked repository to your local environment.
+   ```bash
+   git clone https://github.com/<your_username>/Enigma-GameDev-Challenges
+   ```
+
+3. **Navigate to the Correct Directory**:
+   - Move into the Level2 directory to work on your task:
+   ```bash
+   cd Enigma-GameDev-Challenges/Level2/
+   ```
+
+4. **Create a Folder with Your Username**:
+   - Inside the `Level2` directory, create a new folder named after your GitHub username:
+   ```bash
+   mkdir <your_username>
+   ```
+
+5. **Expand the Chess Game**:
+   - Implement capturing logic and detection of checks and checkmates.
+
+6. **Add Your Submission Files**:
+   - Within your username folder, include:
+     - The entire project folder.
+     - A short video demonstrating capturing mechanics with different pieces.
+     - A short video demonstrating checks and checkmates.
+     - Screenshots of the code for capturing, checks, and checkmates (if possible).
+
+7. **Add and Commit Your Changes**:
+   - After adding your files, stage the changes:
+   ```bash
+   git add .
+   ```
+   - Commit your changes with a meaningful message:
+   ```bash
+   git commit -m "Added Level 2 Chess Mechanics by <your_username>"
+   ```
+
+8. **Push Your Changes and Open a Pull Request**:
+   - Push your changes to your forked repository:
+   ```bash
+   git push origin main
+   ```
+   - Open a Pull Request (PR) to submit your work for review.
+
+---
