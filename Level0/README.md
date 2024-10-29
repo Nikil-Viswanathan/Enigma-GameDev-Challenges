@@ -14,7 +14,7 @@ Use Blender to model any two chess pieces and design both black and white versio
 ## Resources
 + [Blender](https://www.blender.org/)
 + [Blender Basics - YouTube Tutorial](https://www.youtube.com/watch?v=Iu8jV7g9Oqk)
-+ [Blender Chess Piece Modeling - YouTube Playlist](https://www.youtube.com/watch?v=H3BcVxaRgVY&list=PL3GeP3YLZn5hhfaGRSmRia0OwPPMfJu0V)
++ [Blender Chess Piece Modeling - YouTube Playlist](https://www.youtube.com/watch?v=Iu8jV7g9Oqk)
 
 #### Problem Statement:
 Create 3D models for any two chess pieces (e.g., King, Queen, Rook) in Blender, and render both black and white versions.
